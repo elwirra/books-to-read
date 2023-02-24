@@ -1,5 +1,5 @@
 function BookEdit() {
-    return <div>Book Edit</div>
+    return <div>BookEdit</div>
 }
 
 export default BookEdit;
