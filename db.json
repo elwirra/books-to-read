@@ -1,8 +1,12 @@
 {
   "books": [
     {
-      "title": "Harry Potter 32",
+      "title": "Harry Potter 325",
       "id": 7
+    },
+    {
+      "title": "New Book",
+      "id": 8
     }
   ]
 }
